@@ -47,6 +47,10 @@ If everything is set up _correctly_, you should see your new app running in your
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ### Project run after view First screen 
-#Product list
+###Product list
 
 ![image](https://github.com/user-attachments/assets/851cf95e-eb0a-43ee-8f0b-4a1e2edb55e8)
+
+### Click any product so view Second screen
+### Product details -> this screen product information to show
+![image](https://github.com/user-attachments/assets/9edf5f63-0acc-4e75-8423-3336b7c3ad37)
